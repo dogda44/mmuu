@@ -1,1 +1,1 @@
-# mmuu
+# Project Helper CLI
